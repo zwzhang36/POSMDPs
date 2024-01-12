@@ -33,5 +33,5 @@ python main_final.py
 
 ## License
 
-This project is licensed under the MIT License - The GNU General Public License (GPL) v3.0
+This project is licensed under the - The GNU General Public License (GPL) v3.0
 
